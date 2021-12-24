@@ -1,0 +1,15 @@
+D:\StalkerLab4\bin\Debug\net6.0\StalkerLab4.exe
+D:\StalkerLab4\bin\Debug\net6.0\StalkerLab4.deps.json
+D:\StalkerLab4\bin\Debug\net6.0\StalkerLab4.runtimeconfig.json
+D:\StalkerLab4\bin\Debug\net6.0\StalkerLab4.dll
+D:\StalkerLab4\bin\Debug\net6.0\ref\StalkerLab4.dll
+D:\StalkerLab4\bin\Debug\net6.0\StalkerLab4.pdb
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.csproj.AssemblyReference.cache
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.AssemblyInfoInputs.cache
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.AssemblyInfo.cs
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.csproj.CoreCompileInputs.cache
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.dll
+D:\StalkerLab4\obj\Debug\net6.0\ref\StalkerLab4.dll
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.pdb
+D:\StalkerLab4\obj\Debug\net6.0\StalkerLab4.genruntimeconfig.cache
